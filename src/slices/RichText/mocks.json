@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Compass"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Officia cillum in Lorem fugiat elit ex commodo nisi nulla commodo. Qui sint dolor eiusmod proident velit ullamco cillum esse culpa minim ut ullamco dolore. Nostrud tempor excepteur ea."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
